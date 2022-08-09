@@ -16,7 +16,7 @@ const videoPlay=()=>{
                 onStart={videoPlay}
                 url={props.url}
                 width='100%'
-                height='100%'
+                height='99.52vh'
             />
         </div>
     )
